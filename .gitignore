@@ -1,0 +1,5 @@
+*.suo
+/CW.IO.FilePath/obj
+/CW.IO.FilePath/bin
+/CW.IO.FilePath.Test/bin
+/CW.IO.FilePath.Test/obj
