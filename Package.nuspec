@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+		<id>CW.IO.FilePath</id>
+		<version>0.0.0</version>
+		<authors>catwalkagogo</authors>
+		<owners>catwalkagogo</owners>
+		<licenseUrl>https://github.com/catwalkagogo/CW.IO.FilePath/blob/master/LICENSE</licenseUrl>
+		<projectUrl>https://github.com/catwalkagogo/CW.IO.FilePath</projectUrl>
+		<iconUrl>https://avatars3.githubusercontent.com/u/9346206</iconUrl>
+		<requireLicenseAcceptance>false</requireLicenseAcceptance>
+		<description>A FilePath parser &amp; builder.</description>
+		<releaseNotes></releaseNotes>
+		<copyright>Copyright 2014</copyright>
+		<tags></tags>
+		<dependencies>
+		</dependencies>
+	</metadata>
+	<files>
+		<file src="CW.IO.FilePath\bin\Release\*.dll" target="lib" />
+		<file src="CW.IO.FilePath\bin\Release\*.pdb" target="lib" />
+	</files>
+</package>
